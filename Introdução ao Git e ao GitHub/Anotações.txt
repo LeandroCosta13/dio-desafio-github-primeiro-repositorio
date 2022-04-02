@@ -5,7 +5,7 @@ O Git Bash é um terminal extendido para otimizar o uso do Git.
 GUI significa: Graphical User Interface (gui).
 
 Comandos Git:
-git status
-git add
-git commit
-git push
+- git status
+- git add
+- git commit
+- git push
