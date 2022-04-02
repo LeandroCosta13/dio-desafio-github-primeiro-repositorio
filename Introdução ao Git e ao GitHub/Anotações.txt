@@ -1,0 +1,5 @@
+Criar minha primeira conta no GitHub;
+Realizar download do pacote Git (Git CDM, Git Bash, Git GUI);
+
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+GUI significa: Graphical User Interface (gui).
